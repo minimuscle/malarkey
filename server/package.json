@@ -4,9 +4,7 @@
   "main": "index.js",
   "author": "Josh Thiele",
   "license": "MIT",
-  "devDependencies": {
-    "nodemon": "^2.0.12"
-  },
+  "devDependencies": {},
   "dependencies": {
     "express": "^4.17.1"
   }
